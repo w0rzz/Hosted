@@ -1,3 +1,6 @@
+{
+  "title" : "HNG LEADERBOARD",
+  "members" :
 [
 {"FULL NAME":"Uyi-Idahor Benard Aiseosa","USERNAME":"@Aise","EMAIL":"aiseosauyiidahor@gmail.com","TOTAL POINTS":"39"},
 {"FULL NAME":"Paul Olwabukunmi Shotolu","USERNAME":"@paul","EMAIL":"paulshotolu@gmail.com","TOTAL POINTS":"24"},
@@ -709,3 +712,4 @@
 {"FULL NAME":"Wanjiru Catherine","USERNAME":"@Wanjiru","EMAIL":"catherinemunene802@gmail.com","TOTAL POINTS":"1"},
 {"FULL NAME":"Oluwafemi Ojuri","USERNAME":"@devJuri","EMAIL":"ojurifemi132@gmail.com","TOTAL POINTS":"1"}
 ]
+}
